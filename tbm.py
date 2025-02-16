@@ -4,9 +4,9 @@ import sys
 from pygame import mixer
 import os
 
-# ---------------------------
+
 # Pygame Setup and Constants
-# ---------------------------
+
 pygame.init()
 #game window
 screen_width=800
