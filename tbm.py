@@ -68,7 +68,7 @@ def format_prize(n):
     # Returns a string with NPR and words 
     return f"NPR {n} – {num_to_words(n).capitalize()} "
 
-# ---------------------------
+
 # Questions Data
 # ---------------------------
 # Sample questions are provided for each category.
