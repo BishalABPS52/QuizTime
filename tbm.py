@@ -70,7 +70,7 @@ def format_prize(n):
 
 
 # Questions Data
-# ---------------------------
+
 # Sample questions are provided for each category.
 
 easy_questions = [
