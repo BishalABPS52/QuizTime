@@ -18,18 +18,6 @@ scale_factor_y = 1
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
-# #background
-# background = pygame.image.load('assets/background.jpg')
-
-# #backgroundsound
-# mixer.music.load('music.wav')
-# mixer.music.play(-1)
-
-# #game title
-# pygame.display.set_caption("TO BE Millionaires")
-# icon= pygame.image.load('logo.png')
-# pygame.display.set_icon(icon)
-
 # Colors
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
@@ -42,9 +30,9 @@ RED = (200, 0, 0)
 font = pygame.font.SysFont(None, 28)
 big_font = pygame.font.SysFont(None, 40)
 
-# ---------------------------
+
 # Helper: Number to Words
-# ---------------------------
+
 def num_to_words(n):
     # A simple converter for numbers up to billions.
     if n == 0:
