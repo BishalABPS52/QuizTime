@@ -11,7 +11,7 @@ pygame.init()
 #game window
 screen_width=800
 screen = pygame.display.set_mode((1200,800),pygame.RESIZABLE)
-# Scale factor (for scaling game objects)
+# Scale factor
 scale_factor_x = 1
 scale_factor_y = 1
 
