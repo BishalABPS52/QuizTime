@@ -65,7 +65,7 @@ def num_to_words(n):
     return " ".join([w for w in result if w])
 
 def format_prize(n):
-    # Returns a string with NPR and words (e.g., "NPR 1000 – One Thousand Nepalese Rupees")
+    # Returns a string with NPR and words 
     return f"NPR {n} – {num_to_words(n).capitalize()} "
 
 # ---------------------------
