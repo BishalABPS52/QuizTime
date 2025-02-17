@@ -565,7 +565,7 @@ def get_options(question_data):
     random.shuffle(options)
     return options
 
-# ---------------------------
+
 # UI Helper: Draw Text Centered
 # ---------------------------
 def draw_text_center(surface, text, font, color, center):
