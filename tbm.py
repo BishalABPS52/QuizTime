@@ -573,7 +573,7 @@ def draw_text_center(surface, text, font, color, center):
     rect = text_obj.get_rect(center=center)
     surface.blit(text_obj, rect)
 
-# ---------------------------
+
 # Main Game Loop
 # ---------------------------
 def main():
