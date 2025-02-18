@@ -692,7 +692,7 @@ def main():
                     # Reset question start time for the next question.
                     question_start_time = pygame.time.get_ticks()
                 else:
-                    # Game over, so display final prize and then break.
+                    # Game over, so display final prize
                     draw_text_center(screen, f"Final Prize: {format_prize(current_prize)}", big_font, GREEN, (screen_width//2, 600))
                     pygame.display.update()
                     pygame.time.delay(3000)
