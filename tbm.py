@@ -669,7 +669,7 @@ def main():
         header_surface = font.render(header_text, True, BLACK)
         screen.blit(header_surface, (50, 20))
 
-        # Display the question text (wrap if necessary)
+        # Display the question text 
         draw_text_center(screen, qdata["question"], big_font, BLACK, (screen_width//2+50, 200))
         
         # Draw option boxes
