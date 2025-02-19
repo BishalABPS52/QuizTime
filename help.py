@@ -32,7 +32,7 @@ class Button:
         return self.rect.collidepoint(pos)
 
 def show_help():
-    from gamemanager import main_menu  # Import inside function to avoid circular import
+    from gamemanager import main_menu  
 
     screen = pygame.display.set_mode((1200, 800), pygame.RESIZABLE)
     pygame.display.set_caption("Help")
