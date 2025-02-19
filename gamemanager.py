@@ -36,7 +36,7 @@ class Button:
         return self.rect.collidepoint(pos)
 
 def main_menu():
-    from main import main as start_quiz  # Import inside function to avoid circular import
+    from main import main as start_quiz  
 
     screen = pygame.display.set_mode((1200, 800), pygame.RESIZABLE)
     pygame.display.set_caption("Quiz Game")
