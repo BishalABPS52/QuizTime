@@ -32,7 +32,6 @@ big_font = pygame.font.SysFont(None, 40)
 # Helper: Number to Words
 
 def num_to_words(n):
-    # A simple converter for numbers up to billions.
     if n == 0:
         return "zero"
     
