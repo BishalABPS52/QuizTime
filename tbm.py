@@ -66,8 +66,7 @@ def format_prize(n):
     return f"NPR {n} – {num_to_words(n).capitalize()} "
 
 
-# Questions Data
-
+# Questions sets
 # Sample questions are provided for each category.
 
 easy_questions = [
