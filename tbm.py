@@ -16,9 +16,6 @@ screen = pygame.display.set_mode((1200,800),pygame.RESIZABLE)
 scale_factor_x = 1
 scale_factor_y = 1
 
-WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-
 # Colors
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
