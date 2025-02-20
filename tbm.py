@@ -683,7 +683,7 @@ def main():
             pygame.draw.rect(screen, GRAY, rect)
             draw_text_center(screen, option, font, BLACK, rect.center)
 
-        # If feedback needs to be shown (Correct / Wrong / Time's up)
+        # If feedback needs to be shown 
         if show_feedback:
             draw_text_center(screen, feedback, big_font, GREEN if feedback=="Correct!" else RED, (screen_width//2, 550))
             # Show feedback for 1.5 seconds before proceeding.
