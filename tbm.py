@@ -29,7 +29,7 @@ font = pygame.font.SysFont(None, 28)
 big_font = pygame.font.SysFont(None, 40)
 
 
-# Helper: Number to Words
+# Helper: Number to Words for prize
 
 def num_to_words(n):
     if n == 0:
