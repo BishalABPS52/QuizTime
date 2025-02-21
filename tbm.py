@@ -305,13 +305,13 @@ medium_questions = [
         "wrong": ["Charles Dickens", "J.K. Rowling", "George Orwell", "Jane Austen"]
     },
     {
-        "question": "On a TV screen, the pixels are 1/3 red, 1/3 blue, and 1/3 green. \n If you want to have yellow light, which parts of the pixel have to glow more brightly than the others?",
+        "question": "On a TV screen, the pixels are 1/3 red, 1/3 blue, and 1/3 green.If you want to have yellow light, which parts of the pixel have to glow more brightly than the others?",
         "correct": "Red and Green",
         "wrong": ["Red and Yellow", "Only less Green", "Green and Blue", "Only less Red"]
     },
     {
         "question": "What is the old name of Japan?",
-        "correct": "Nihon/Nippon",
+        "correct": "Nippon",
         "wrong": ["Yamato", "Sakoku", "Daitō", "Edo"]
     },
     {
