@@ -577,7 +577,7 @@ def main():
     total_questions = len(all_questions)
     current_prize = 0
     running = True
-    selected_option = None  # to store clicked option
+    selected_option = None  # to store clicked option and select it
     feedback = ""
     show_feedback = False
     feedback_timer = 0
