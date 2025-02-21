@@ -9,7 +9,7 @@ import os
 # Pygame Setup and Constants
 
 pygame.init()
-#game window
+#game window or game tab
 screen_width=800
 screen = pygame.display.set_mode((1200,800),pygame.RESIZABLE)
 # Scale factor
