@@ -1,4 +1,4 @@
-#old one
+#old one without any components
 import pygame
 import random
 import sys
