@@ -552,7 +552,7 @@ all_questions = selected_easy + selected_medium + selected_hard
 prize_levels = [25000, 50000, 100000, 200000, 400000, 800000, 1600000, 3200000, 6400000, 12800000, 25600000, 51200000, 102400000, 204800000, 700000000]
 
 
-# Function: Generate Options for a Question
+# Function to Generate Options for a Question
 
 def get_options(question_data):
     # Always include the correct answer and choose 3 random wrong answers from the set of 5.
