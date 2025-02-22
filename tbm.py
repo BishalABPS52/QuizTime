@@ -660,7 +660,7 @@ def main():
         qdata = all_questions[current_question_index]
         options = questions_options[current_question_index]
 
-        # Draw question number and prize info at top.
+        # Draw question number and prize info at top of screen
         header_text = f"Question {current_question_index + 1} / {total_questions} | Prize: {format_prize(current_prize)}"
         header_surface = font.render(header_text, True, BLACK)
         screen.blit(header_surface, (50, 20))
