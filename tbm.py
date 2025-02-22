@@ -645,7 +645,7 @@ def main():
                         feedback_timer = pygame.time.get_ticks()
                         break
 
-        # If all questions answered, display winning message
+        # If all questions answered, display winning message for winner
         if current_question_index >= total_questions:
             screen.fill(WHITE)
             draw_text_center(screen, "Congratulations, you won!", big_font, BLUE, (screen_width//2, screen_height//2 - 20))
