@@ -568,7 +568,6 @@ def draw_text_center(surface, text, font, color, center):
 
 
 # Main Game Loop
-
 def main():
     current_question_index = 0
     total_questions = len(all_questions)
