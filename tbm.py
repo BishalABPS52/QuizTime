@@ -67,7 +67,6 @@ def format_prize(n):
 
 # Questions sets (Easy / Medium / Hard )
 # Sample questions are provided for each category.
-
 easy_questions = [
     {
         "question": "Which is the largest country by area?",
