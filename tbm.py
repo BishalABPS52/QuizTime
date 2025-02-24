@@ -561,7 +561,6 @@ def get_options(question_data):
 
 
 # UI Helper: Draw Text Centered
-
 def draw_text_center(surface, text, font, color, center):
     text_obj = font.render(text, True, color)
     rect = text_obj.get_rect(center=center)
