@@ -681,7 +681,7 @@ def main():
             if pygame.time.get_ticks() - feedback_timer > 1500:
                 if feedback == "Correct!":
                     current_question_index += 1
-                    # Reset question start time for the next question.
+                    # Reset question start time for the next question each type of questions have difeerent time
                     question_start_time = pygame.time.get_ticks()
                 else:
                     # Game over, so display final prize
