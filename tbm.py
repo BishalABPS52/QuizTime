@@ -553,7 +553,7 @@ prize_levels = [25000, 50000, 100000, 200000, 400000, 800000, 1600000, 3200000, 
 # Function to Generate Options for a Question
 
 def get_options(question_data):
-    # Always include the correct answer and choose 3 random wrong answers from the set of
+    # Always include the correct answer and choose 3 random wrong answers from the set of 5
     wrong_options = random.sample(question_data["wrong"], 3)
     options = wrong_options + [question_data["correct"]]
     random.shuffle(options)
