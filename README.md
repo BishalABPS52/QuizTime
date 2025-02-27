@@ -1,6 +1,6 @@
-# 🏆 TBM: To Be Millionaire 🎮
+# 🏆 QuizTime 🎮
 
-**TBM (To Be Millionaire)** is an exciting and challenging quiz game where players can win up to **700,000,000 NPR TBM Money**! 💰🔥 Players must answer 15 questions with increasing difficulty, racing against time to make it to the top and secure their fortune.
+**QuizTime** is an exciting and challenging quiz game where players can win up to **$ 700,000,000**! 💰🔥 Players must answer 15 questions with increasing difficulty, racing against time to make it to the top and secure their fortune.
 
 ---
 ## 🎯 Game Rules & Features
