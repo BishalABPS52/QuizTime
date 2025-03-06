@@ -33,7 +33,7 @@ easy_questions = [
     {
         "question": "What is the capital of France?",
         "correct": "Paris",
-        "wrong": ["Berlin", "London", "Rome", "Madrid"]
+        "wrong": ["Berlin", "Marseille", "Rome", "Madrid"]
     },
     {
         "question": "Who developed the theory of relativity?",
