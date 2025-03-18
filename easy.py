@@ -1,6 +1,6 @@
 #--------------------
 #set of easy questions..
-#------------------
+#--------------------
 easy_questions = [
     {
         "question": "Which is the largest country by area?",
