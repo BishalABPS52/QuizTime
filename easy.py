@@ -114,5 +114,10 @@ easy_questions = [
         "question": "Which fruit is known as the 'King of Fruits'?",
         "correct": "Durian",
         "wrong": ["Mango", "Banana", "Pineapple", "Apple"]
+    },
+    {
+        "question": "What are Three Prime Colours?",
+        "correct": "Red Blue Green",
+        "wrong": ["Red Blue Yellow", "Red Yellow Green", "Red Black White", "Red Blue White"]
     }
 ]
