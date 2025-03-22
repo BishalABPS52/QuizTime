@@ -119,5 +119,35 @@ easy_questions = [
         "question": "What are Three Prime Colours?",
         "correct": "Red Blue Green",
         "wrong": ["Red Blue Yellow", "Red Yellow Green", "Red Black White", "Red Blue White"]
+    },
+    {
+        "question": "What is the capital of Samoa?",
+        "correct": "Apia",
+        "wrong": [
+            "Salelologa",
+            "Faleolo",
+            "Mulifanua",
+            "Savaii"
+        ]
+    },
+    {
+        "question": "What is the capital of Palau?",
+        "correct": "Ngerulmud",
+        "wrong": [
+            "Koror",
+            "Melekeok",
+            "Airai",
+            "Ngaraard"
+        ]
+    },
+    {
+        "question": "Cristiano Ronaldo is associated with which sport?",
+        "correct": "Football",
+        "wrong": [
+            "Tennis",
+            "Basketball",
+            "Golf",
+            "Cricket"
+        ]
     }
 ]
