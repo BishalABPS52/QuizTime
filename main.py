@@ -30,9 +30,9 @@ question_font = pygame.font.Font("/home/bishal-shrestha/MyProjects/UbuntuPythonF
 golden_font = pygame.font.Font("/home/bishal-shrestha/MyProjects/UbuntuPythonFiles/Files/assets/CaviarDreams_Bold.ttf", 28)
 winner_font = pygame.font.Font("/home/bishal-shrestha/MyProjects/UbuntuPythonFiles/Files/assets/KnightWarrior.otf", 60)
 
-# ---------------------------
+# ----------------------------
 # Pygame Setup and Constants
-# ---------------------------
+# ----------------------------
 #game window
 screen_width = 1200
 screen_height = 800
