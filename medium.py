@@ -12,12 +12,7 @@ medium_questions = [
     {
         "question": "Which city is known as the 'City of Canals'?",
         "correct": "Venice",
-        "wrong": [
-            "Amsterdam",
-            "Paris",
-            "Bangkok",
-            "Venice"
-        ]
+        "wrong": ["Amsterdam","Paris","Bangkok","Venice"]
     },
     {
         "question": "In which city is the famous landmark, the Christ the Redeemer statue, located?",
