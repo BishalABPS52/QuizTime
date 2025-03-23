@@ -1190,16 +1190,6 @@ medium_questions = [
         ]
     },
     {
-        "question": "What is the traditional dress worn by Japanese women called?",
-        "correct": "Kimono",
-        "wrong": [
-            "Sari",
-            "Hanbok",
-            "Cheongsam",
-            "Lehenga"
-        ]
-    },
-    {
         "question": "Which festival is known as the 'Festival of Lights'?",
         "correct": "Diwali",
         "wrong": [
@@ -1667,6 +1657,773 @@ medium_questions = [
             "Jos Buttler",
             "Chris Woakes",
             "Eoin Morgan"
+        ]
+    },
+    {
+        "question": "What is the primary ingredient in guacamole?",
+        "correct": "Avocado",
+        "wrong": [
+            "Tomato",
+            "Lime",
+            "Onion",
+            "Cucumber"
+        ]
+    },
+    {
+        "question": "Which vegetable is known as a superfood due to its high nutrient content?",
+        "correct": "Kale",
+        "wrong": [
+            "Lettuce",
+            "Cabbage",
+            "Spinach",
+            "Broccoli"
+        ]
+    },
+    {
+        "question": "What is the main ingredient in coleslaw?",
+        "correct": "Cabbage",
+        "wrong": [
+            "Lettuce",
+            "Carrot",
+            "Onion",
+            "Celery"
+        ]
+    },
+    {
+        "question": "Which vegetable is also called a 'courgette'?",
+        "correct": "Zucchini",
+        "wrong": [
+            "Cucumber",
+            "Eggplant",
+            "Squash",
+            "Bell Pepper"
+        ]
+    },
+    {
+        "question": "What is the scientific name for the onion family?",
+        "correct": "Allium",
+        "wrong": [
+            "Brassica",
+            "Solanum",
+            "Cucurbita",
+            "Fabaceae"
+        ]
+    },
+    {
+        "question": "Which vegetable is used to make chips?",
+        "correct": "Potato",
+        "wrong": [
+            "Carrot",
+            "Turnip",
+            "Parsnip",
+            "Zucchini"
+        ]
+    },
+    {
+        "question": "What is the main ingredient in hummus?",
+        "correct": "Chickpeas",
+        "wrong": [
+            "Lentils",
+            "Beans",
+            "Peas",
+            "Corn"
+        ]
+    },
+    {
+        "question": "Which vegetable is orange and rich in beta-carotene?",
+        "correct": "Carrot",
+        "wrong": [
+            "Pumpkin",
+            "Sweet Potato",
+            "Bell Pepper",
+            "Mango"
+        ]
+    },
+    {
+        "question": "What is the green part of a leek called?",
+        "correct": "Leaves",
+        "wrong": [
+            "Stem",
+            "Root",
+            "Bulb",
+            "Shoot"
+        ]
+    },
+    {
+        "question": "Which vegetable is used to make pickles?",
+        "correct": "Cucumber",
+        "wrong": [
+            "Zucchini",
+            "Carrot",
+            "Radish",
+            "Celery"
+        ]
+    },
+    {
+        "question": "What is the name of the edible root of the beet plant?",
+        "correct": "Beetroot",
+        "wrong": [
+            "Radish",
+            "Turnip",
+            "Carrot",
+            "Parsnip"
+        ]
+    },
+    {
+        "question": "Which fruit is known for its high vitamin C content?",
+        "correct": "Orange",
+        "wrong": [
+            "Apple",
+            "Banana",
+            "Watermelon",
+            "Grapes"
+        ]
+    },
+    {
+        "question": "What color is the inside of a kiwi?",
+        "correct": "Green",
+        "wrong": [
+            "Red",
+            "Yellow",
+            "Purple",
+            "Orange"
+        ]
+    },
+    {
+        "question": "Which fruit is also called an alligator pear?",
+        "correct": "Avocado",
+        "wrong": [
+            "Papaya",
+            "Mango",
+            "Pear",
+            "Fig"
+        ]
+    },
+    {
+        "question": "What is the largest fruit in the world?",
+        "correct": "Jackfruit",
+        "wrong": [
+            "Pumpkin",
+            "Watermelon",
+            "Coconut",
+            "Durian"
+        ]
+    },
+    {
+        "question": "Which fruit is often called a 'love apple'?",
+        "correct": "Tomato",
+        "wrong": [
+            "Cherry",
+            "Strawberry",
+            "Apple",
+            "Pomegranate"
+        ]
+    },
+    {
+        "question": "What is the main flavor in a pi\u00f1a colada?",
+        "correct": "Pineapple",
+        "wrong": [
+            "Coconut",
+            "Banana",
+            "Mango",
+            "Lemon"
+        ]
+    },
+    {
+        "question": "Which fruit grows on a cactus?",
+        "correct": "Prickly Pear",
+        "wrong": [
+            "Mango",
+            "Papaya",
+            "Kiwi",
+            "Guava"
+        ]
+    },
+    {
+        "question": "Which fruit is the main ingredient in jam?",
+        "correct": "Strawberry",
+        "wrong": [
+            "Apple",
+            "Banana",
+            "Orange",
+            "Peach"
+        ]
+    },
+    {
+        "question": "Who is the founder of Netflix, the streaming service that changed how we watch TV and movies?",
+        "correct": "Reed Hastings",
+        "wrong": [
+            "Jeff Bezos",
+            "Elon Musk",
+            "Mark Zuckerberg",
+            "Larry Page"
+        ]
+    },
+    {
+        "question": "Who co-founded Apple Inc. along with Steve Jobs and Ronald Wayne?",
+        "correct": "Steve Wozniak",
+        "wrong": [
+            "Tim Cook",
+            "Elon Musk",
+            "Bill Gates",
+            "Larry Page"
+        ]
+    },
+    {
+        "question": "Who is the founder of Zoom, the video conferencing platform that became popular during the pandemic?",
+        "correct": "Eric Yuan",
+        "wrong": [
+            "Mark Zuckerberg",
+            "Elon Musk",
+            "Jeff Bezos",
+            "Bill Gates"
+        ]
+    },
+    {
+        "question": "Who founded PayPal, the online payment system, before it was acquired by eBay?",
+        "correct": "Max Levchin",
+        "wrong": [
+            "Elon Musk",
+            "Bill Gates",
+            "Larry Page",
+            "Mark Zuckerberg"
+        ]
+    },
+    {
+        "question": "Who is the founder of WhatsApp, the messaging app later acquired by Meta (formerly Facebook)?",
+        "correct": "Jan Koum",
+        "wrong": [
+            "Mark Zuckerberg",
+            "Elon Musk",
+            "Brian Chesky",
+            "Larry Page"
+        ]
+    },
+    {
+        "question": "Who founded Snapchat, the multimedia messaging app popular among younger audiences?",
+        "correct": "Evan Spiegel",
+        "wrong": [
+            "Mark Zuckerberg",
+            "Jack Dorsey",
+            "Bill Gates",
+            "Elon Musk"
+        ]
+    },
+    {
+        "question": "Who is the founder of Twitter, the social media platform known for short posts called 'tweets'?",
+        "correct": "Jack Dorsey",
+        "wrong": [
+            "Mark Zuckerberg",
+            "Elon Musk",
+            "Larry Page",
+            "Bill Gates"
+        ]
+    },
+    {
+        "question": "Who is the founder of Shopify, the e-commerce platform that helps businesses sell online?",
+        "correct": "Tobias L\u00fctke",
+        "wrong": [
+            "Jeff Bezos",
+            "Elon Musk",
+            "Mark Zuckerberg",
+            "Jack Ma"
+        ]
+    },
+    {
+        "question": "Who founded Spotify, the music streaming service that offers millions of songs?",
+        "correct": "Daniel Ek",
+        "wrong": [
+            "Reed Hastings",
+            "Elon Musk",
+            "Mark Zuckerberg",
+            "Brian Chesky"
+        ]
+    },
+    {
+        "question": "Who is the founder of LinkedIn, the professional networking platform?",
+        "correct": "Reid Hoffman",
+        "wrong": [
+            "Mark Zuckerberg",
+            "Bill Gates",
+            "Jeff Bezos",
+            "Larry Page"
+        ]
+    },
+    {
+        "question": "What is the only mammal capable of true flight?",
+        "correct": "Bat",
+        "wrong": [
+            "Bird",
+            "Insect",
+            "Flying Squirrel",
+            "Pterodactyl"
+        ]
+    },
+    {
+        "question": "Which animal can sleep for three years straight?",
+        "correct": "Snail",
+        "wrong": [
+            "Bear",
+            "Koala",
+            "Hibernating Frog",
+            "Cat"
+        ]
+    },
+    {
+        "question": "What is the loudest animal on Earth (relative to its size)?",
+        "correct": "Cicada",
+        "wrong": [
+            "Whale",
+            "Lion",
+            "Elephant",
+            "Tiger"
+        ]
+    },
+    {
+        "question": "Which bird can fly backward?",
+        "correct": "Hummingbird",
+        "wrong": [
+            "Eagle",
+            "Pigeon",
+            "Sparrow",
+            "Parrot"
+        ]
+    },
+    {
+        "question": "What animal has the longest lifespan?",
+        "correct": "Greenland shark \u2013 up to 500 years!",
+        "wrong": [
+            "Tortoise","Elephant","Whale","Ostrich"
+        ]
+    },
+    {
+        "question": "Who holds the record for the most goals scored in FIFA World Cup history?",
+        "correct": "Marta",
+        "wrong": ["Cristiano Ronaldo", "Pele", "Miroslav Klose", "Ronaldo Nazário"]
+    },
+    {
+        "question": "Who was the first person to reach the South Pole?",
+        "correct": "Roald Amundsen",
+        "wrong": ["Robert Falcon Scott", "Edmund Hillary", "Tenzing Norgay", "Christopher Columbus"]
+    },
+    {
+        "question": "What was the primary cause of the American Civil War?",
+        "correct": "Slavery",
+        "wrong": ["Economic differences", "State rights", "Political conflict", "Westward expansion"]
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "correct": "Buenos Aires",
+        "wrong": ["Santiago", "Rio de Janeiro", "Montevideo", "Lima"]
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "correct": "Vatican City",
+        "wrong": ["Monaco", "San Marino", "Nauru", "Liechtenstein"]
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "correct": "Jupiter",
+        "wrong": ["Saturn", "Mars", "Earth", "Uranus"]
+    },
+    {
+        "question": "What is the capital of Chile?",
+        "correct": "Santiago",
+        "wrong": ["Valparaiso", "Buenos Aires", "Lima", "La Paz"]
+    },
+    {
+        "question": "What is the largest bird in the world?",
+        "correct": "Ostrich",
+        "wrong": ["Emu", "Penguin", "Albatross", "Condor"]
+    },
+    {
+        "question": "What is the most populous country in the world?",
+        "correct": "China",
+        "wrong": ["India", "USA", "Indonesia", "Brazil"]
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "correct": "Cheetah",
+        "wrong": ["Lion", "Leopard", "Jaguar", "Antelope"]
+    },
+    {
+        "question": "What is the tallest mammal in the world?",
+        "correct": "Giraffe",
+        "wrong": ["Elephant", "Blue whale", "Horse", "Camel"]
+    },
+    {
+        "question": "What is the most spoken language in the world?",
+        "correct": "Mandarin Chinese",
+        "wrong": ["Spanish", "English", "Hindi", "Arabic"]
+    },
+    {
+        "question": "Which animal has the longest lifespan?",
+        "correct": "Greenland Shark",
+        "wrong": ["Elephant", "Tortoise", "Bowhead Whale", "Koi Fish"]
+    },
+    {
+        "question": "Who was the first person to circumnavigate the globe by sea?",
+        "correct": "Ferdinand Magellan",
+        "wrong": ["Christopher Columbus", "Marco Polo", "John Cabot", "Vasco da Gama"]
+    },
+    {
+        "question": "What was the primary language of the Roman Empire?",
+        "correct": "Latin",
+        "wrong": ["Greek", "Arabic", "Hebrew", "Etruscan"]
+    },
+    {
+        "question": "What is the capital of Fiji?",
+        "correct": "Suva",
+        "wrong": ["Nadi", "Port Vila", "Apia", "Honiara"]
+    },
+    {
+        "question": "What is the main component of natural gas?",
+        "correct": "Methane",
+        "wrong": ["Ethane", "Propane", "Butane", "Acetylene"]
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "correct": "Pretoria",
+        "wrong": ["Cape Town", "Johannesburg", "Durban", "Bloemfontein"]
+    },
+    {
+        "question": "What is the fastest fish in the ocean?",
+        "correct": "Sailfish",
+        "wrong": ["Marlin", "Tuna", "Shark", "Swordfish"]
+    },
+    {
+        "question": "What is the capital of Micronesia?",
+        "correct": "Palikir",
+        "wrong": ["Koror", "Hagåtña", "Majuro", "Suva"]
+    },
+    {
+        "question": "What is the capital of Palau?",
+        "correct": "Ngerulmud",
+        "wrong": ["Koror", "Suva", "Port Moresby", "Apia"]
+    },
+    {
+        "question": "What is the capital of Tonga?",
+        "correct": "Nuku'alofa",
+        "wrong": ["Suva", "Apia", "Port Vila", "Port Moresby"]
+    },
+    {
+        "question": "What is the capital of Samoa?",
+        "correct": "Apia",
+        "wrong": ["Suva", "Port Vila", "Honiara", "Nuku'alofa"]
+    },
+    {
+        "question": "What is the traditional dress worn by Japanese women called?",
+        "correct": "Kimono",
+        "wrong": ["Sari", "Hanbok", "Cheongsam", "Barong Tagalog"]
+    },
+    {
+        "question": "What is the only planet in our solar system that rotates clockwise?",
+        "correct": "Venus",
+        "wrong": [
+            "Mars",
+            "Jupiter",
+            "Earth",
+            "Mercury"
+        ]
+    },
+    {
+        "question": "How long does it take light from the Sun to reach Earth?",
+        "correct": "About 8 minutes",
+        "wrong": [
+            "5 seconds",
+            "1 minute",
+            "24 hours",
+            "1 week"
+        ]
+    },
+    {
+        "question": "What is the most abundant gas in the Earth\u2019s atmosphere?",
+        "correct": "Nitrogen \u2013 about 78%",
+        "wrong": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Argon",
+            "Methane"
+        ]
+    },
+    {
+        "question": "What color is the blood of an octopus?",
+        "correct": "Blue \u2013 due to copper-based hemocyanin",
+        "wrong": [
+            "Red",
+            "Green",
+            "Purple",
+            "Yellow"
+        ]
+    },
+    {
+        "question": "What vegetable was once used as currency in ancient Egypt?",
+        "correct": "Garlic",
+        "wrong": [
+            "Onion",
+            "Carrot",
+            "Lettuce",
+            "Cucumber"
+        ]
+    },
+    {
+        "question": "What is the only edible food that never goes bad?",
+        "correct": "Honey",
+        "wrong": [
+            "Salt",
+            "Sugar",
+            "Rice",
+            "Canned Food"
+        ]
+    },
+    {
+        "question": "What popular drink was originally invented as a medicine?",
+        "correct": "Coca-Cola",
+        "wrong": [
+            "Pepsi",
+            "Sprite",
+            "Red Bull",
+            "Gatorade"
+        ]
+    },
+    {
+        "question": "What country has the longest coastline in the world?",
+        "correct": "Canada",
+        "wrong": [
+            "Russia",
+            "Australia",
+            "United States",
+            "Brazil"
+        ]
+    },
+    {
+        "question": "What is the only sea without any coasts?",
+        "correct": "Sargasso Sea",
+        "wrong": [
+            "Mediterranean Sea",
+            "Caribbean Sea",
+            "Red Sea",
+            "Baltic Sea"
+        ]
+    },
+    {
+        "question": "What is the flattest country on Earth?",
+        "correct": "Maldives",
+        "wrong": [
+            "Netherlands",
+            "Bangladesh",
+            "Denmark",
+            "Luxembourg"
+        ]
+    },
+    {
+        "question": "What country\u2019s flag features a maple leaf?",
+        "correct": "Canada",
+        "wrong": [
+            "United States",
+            "Brazil",
+            "Australia",
+            "New Zealand"
+        ]
+    },
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "correct": "Vatican City",
+        "wrong": [
+            "Monaco",
+            "Nauru",
+            "Tuvalu",
+            "San Marino"
+        ]
+    },
+    {
+        "question": "What is the most streamed show on Netflix (as of 2023)?",
+        "correct": "Stranger Things",
+        "wrong": [
+            "The Witcher",
+            "Bridgerton",
+            "Money Heist",
+            "Squid Game"
+        ]
+    },
+    {
+        "question": "What is the name of the fictional school in Harry Potter?",
+        "correct": "Hogwarts",
+        "wrong": [
+            "Nevermore",
+            "Illvermorny",
+            "Beauxbatons",
+            "Durmstrang"
+        ]
+    },
+    {
+        "question": "What famous superhero works as a journalist named Clark Kent?",
+        "correct": "Superman",
+        "wrong": [
+            "Batman",
+            "Spider-Man",
+            "Iron Man",
+            "Wonder Woman"
+        ]
+    },
+    {
+        "question": "What is the highest-grossing movie of all time (adjusted for inflation)?",
+        "correct": "Gone with the Wind",
+        "wrong": [
+            "Avatar",
+            "Titanic",
+            "Avengers: Endgame",
+            "Star Wars: The Force Awakens"
+        ]
+    },
+    {
+        "question": "What is the name of the dragon in The Hobbit?",
+        "correct": "Smaug",
+        "wrong": [
+            "Drogon",
+            "Norbert",
+            "Shenron",
+            "Falkor"
+        ]
+    },
+    {
+        "question": "How many taste buds does the average human tongue have?",
+        "correct": "Around 10,000",
+        "wrong": [
+            "Around 1,000",
+            "Around 5,000",
+            "Around 20,000",
+            "Around 50,000"
+        ]
+    },
+    {
+        "question": "What is the fastest-growing tissue in the human body?",
+        "correct": "Hair",
+        "wrong": [
+            "Nails",
+            "Skin",
+            "Muscle",
+            "Bone"
+        ]
+    },
+    {
+        "question": "What is the shortest war in recorded history?",
+        "correct": "Anglo-Zanzibar War \u2013 lasted 38-45 minutes",
+        "wrong": [
+            "World War I",
+            "World War II",
+            "Korean War",
+            "Falklands War"
+        ]
+    },
+    {
+        "question": "What is the fear of long words called?",
+        "correct": "Hippopotomonstrosesquippedaliophobia",
+        "wrong": [
+            "Nyctophobia",
+            "Claustrophobia",
+            "Acrophobia",
+            "Anthophobia"
+        ]
+    },
+    {
+        "question": "What is the only letter not appearing in the periodic table of elements?",
+        "correct": "J",
+        "wrong": [
+            "Z",
+            "Q",
+            "X",
+            "Y"
+        ]
+    },
+    {
+        "question": "What animal holds the record for the longest migration?",
+        "correct": "Arctic Tern \u2013 over 70,000 km annually",
+        "wrong": [
+            "Monarch Butterfly",
+            "Gray Whale",
+            "Salmon",
+            "Caribou"
+        ]
+    },
+    {
+        "question": "What is the most common eye color in humans?",
+        "correct": "Brown",
+        "wrong": [
+            "Blue",
+            "Green",
+            "Hazel",
+            "Gray"
+        ]
+    },
+    {
+        "question": "What is the tallest tree in the world?",
+        "correct": "Hyperion, a coast redwood in California",
+        "wrong": [
+            "Sequoia",
+            "Douglas Fir",
+            "Pine",
+            "Oak"
+        ]
+    },
+    {
+        "question": "What is the largest living organism on Earth?",
+        "correct": "A fungus in Oregon \u2013 Armillaria ostoyae",
+        "wrong": [
+            "Blue Whale",
+            "Giant Sequoia",
+            "Giant Jellyfish",
+            "Coral Reef"
+        ]
+    },
+    {
+        "question": "What was the first computer virus ever created?",
+        "correct": "Creeper, in 1971",
+        "wrong": [
+            "ILOVEYOU",
+            "Melissa",
+            "MyDoom",
+            "Code Red"
+        ]
+    },
+    {
+        "question": "What company made the first smartphone?",
+        "correct": "IBM \u2013 Simon Personal Communicator, 1992",
+        "wrong": [
+            "Apple",
+            "Samsung",
+            "Motorola",
+            "Nokia"
+        ]
+    },
+    {
+        "question": "What year was the first email sent?",
+        "correct": "1971",
+        "wrong": [
+            "1965",
+            "1980",
+            "1995",
+            "2000"
+        ]
+    },
+    {
+        "question": "What is the most-used search engine in the world?",
+        "correct": "Google",
+        "wrong": [
+            "Bing",
+            "Yahoo",
+            "DuckDuckGo",
+            "Ask.com"
+        ]
+    },
+    {
+        "question": "What was the first social media platform ever created?",
+        "correct": "Six Degrees, launched in 1997",
+        "wrong": [
+            "Facebook",
+            "MySpace",
+            "Twitter",
+            "LinkedIn"
         ]
     }
 ]
