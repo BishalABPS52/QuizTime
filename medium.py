@@ -2,12 +2,7 @@ medium_questions = [
     {
         "question": "San Siro is a stadium located in which city?",
         "correct": "Milan",
-        "wrong": [
-            "Rome",
-            "Paris",
-            "Madrid",
-            "Berlin"
-        ]
+        "wrong": ["Rome","Paris","Madrid","Berlin"]
     },
     {
         "question": "In which city would you find the historic landmark, the Alhambra?",
