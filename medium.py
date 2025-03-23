@@ -7,12 +7,7 @@ medium_questions = [
     {
         "question": "In which city would you find the historic landmark, the Alhambra?",
         "correct": "Granada",
-        "wrong": [
-            "Seville",
-            "Madrid",
-            "Barcelona",
-            "Lisbon"
-        ]
+        "wrong": ["Seville","Madrid","Barcelona","Lisbon"]
     },
     {
         "question": "Which city is known as the 'City of Canals'?",
