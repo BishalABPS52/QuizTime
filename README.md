@@ -50,10 +50,6 @@ source .venv/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
-### 🔹 Run the Game
-```sh
-python tbm.py
-```
 
 ## 🎮 How to Play
 1. Start the game and answer each question correctly to progress. ✅
