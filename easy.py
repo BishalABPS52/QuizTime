@@ -123,12 +123,7 @@ easy_questions = [
     {
         "question": "What is the capital of Samoa?",
         "correct": "Apia",
-        "wrong": [
-            "Salelologa",
-            "Faleolo",
-            "Mulifanua",
-            "Savaii"
-        ]
+        "wrong": ["Salelologa","Faleolo","Mulifanua","Savaii"]
     },
     {
         "question": "What is the capital of Palau?",
