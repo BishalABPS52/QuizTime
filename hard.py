@@ -11,14 +11,14 @@ hard_questions = [
         ]
     },
     {
-        "question": "What does AI stand for?",
-        "correct": "Artificial Intelligence",
+        "question": "What does ANI stand for?",
+        "correct": "Artificial Narrow Intelligence",
         "wrong": [
-            "Automated Information",
-            "Applied Innovation",
-            "Advanced Integration",
-            "Analog Input",
-            "Augmented Insight"
+            "Artificial Natural Intelligence",
+            "Artificial Neural Intelligence",
+            "Artificial Normal Intelligence",
+            "Artificial Near Intelligence",
+            "Artficial New Intelligence"
         ]
     },
     {
