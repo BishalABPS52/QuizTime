@@ -2,13 +2,7 @@ hard_questions = [
     {
         "question": "In which year did World War II end?",
         "correct": "1945",
-        "wrong": [
-            "1939",
-            "1942",
-            "1950",
-            "1947",
-            "1955"
-        ]
+        "wrong": ["1939","1942","1950","1947","1955"]
     },
     {
         "question": "Who was the first person to walk on the Moon?",
