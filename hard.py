@@ -887,10 +887,10 @@ hard_questions = [
         "question": "What is the extension for Python files?",
         "correct": ".py",
         "wrong": [
-            ".java",
-            ".cpp",
-            ".rb",
-            ".txt"
+            ".python",
+            ".pth",
+            ".pynb",
+            ".ipynb"
         ]
     },
     {
