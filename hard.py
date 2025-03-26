@@ -5,14 +5,9 @@ hard_questions = [
         "wrong": ["1939","1942","1950","1947","1955"]
     },
     {
-        "question": "Who was the first person to walk on the Moon?",
-        "correct": "Neil Armstrong",
-        "wrong": [
-            "Buzz Aldrin",
-            "Yuri Gagarin",
-            "Michael Collins",
-            "Alan Bean",
-            "Edwin Aldrin"
+        "question": "Who was the second person to walk on the Moon?",
+        "correct": "Buzz Aldrin",
+        "wrong": ["Neil Armstrong","Yuri Gagarin","Michael Collins","Alan Bean","Edwin Aldrin"
         ]
     },
     {
