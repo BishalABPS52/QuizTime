@@ -13,19 +13,12 @@ hard_questions = [
     {
         "question": "What does ANI stand for?",
         "correct": "Artificial Narrow Intelligence",
-        "wrong": ["Artificial Natural Intelligence","Artificial Neural Intelligence","Artificial Normal Intelligence","Artificial Near Intelligence","Artficial New Intelligence"
-        ]
+        "wrong": ["Artificial Natural Intelligence","Artificial Neural Intelligence","Artificial Normal Intelligence","Artificial Near Intelligence","Artficial New Intelligence"]
     },
     {
         "question": "In which year was the US Declaration of Independence signed?",
         "correct": "1776",
-        "wrong": [
-            "1783",
-            "1492",
-            "1804",
-            "1765",
-            "1770"
-        ]
+        "wrong": ["1783","1492",1804","1765","1770"]
     },
     {
         "question": "Who composed the symphony known as the 'Jupiter Symphony'?",
