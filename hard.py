@@ -33,12 +33,7 @@ hard_questions = [
     {
         "question": "Which element has the chemical symbol 'W'?",
         "correct": "Tungsten",
-        "wrong": [
-            "Tantalum",
-            "Thorium",
-            "Wolfram",
-            "Wolframium"
-        ]
+        "wrong": ["Tantalum","Thorium","Wolfram","Wolframium"]
     },
     {
         "question": "Who is credited with the discovery of penicillin?",
