@@ -23,12 +23,7 @@ hard_questions = [
     {
         "question": "Who composed the symphony known as the 'Jupiter Symphony'?",
         "correct": "Wolfgang Amadeus Mozart",
-        "wrong": [
-            "Ludwig van Beethoven",
-            "Johann Sebastian Bach",
-            "Franz Schubert",
-            "Pyotr Ilyich Tchaikovsky"
-        ]
+        "wrong": ["Ludwig van Beethoven","Johann Sebastian Bach","Franz Schubert","Pyotr Ilyich Tchaikovsky"]
     },
     {
         "question": "In which year did the Apollo 11 mission land the first humans on the Moon?",
