@@ -28,12 +28,7 @@ hard_questions = [
     {
         "question": "In which year did the Apollo 11 mission land the first humans on the Moon?",
         "correct": "1969",
-        "wrong": [
-            "1965",
-            "1971",
-            "1963",
-            "1973"
-        ]
+        "wrong": ["1965","1971","1963","1973"]
     },
     {
         "question": "Which element has the chemical symbol 'W'?",
