@@ -128,12 +128,7 @@ easy_questions = [
     {
         "question": "What is the capital of Palau?",
         "correct": "Ngerulmud",
-        "wrong": [
-            "Koror",
-            "Melekeok",
-            "Airai",
-            "Ngaraard"
-        ]
+        "wrong": ["Koror","Melekeok","Airai","Ngaraard"]
     },
     {
         "question": "Cristiano Ronaldo is associated with which sport?",
