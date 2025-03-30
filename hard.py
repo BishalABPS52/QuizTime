@@ -5,12 +5,6 @@ hard_questions = [
         "wrong": ["1939","1942","1950","1947","1955"]
     },
     {
-        "question": "Who was the second person to walk on the Moon?",
-        "correct": "Buzz Aldrin",
-        "wrong": ["Neil Armstrong","Yuri Gagarin","Michael Collins","Alan Bean","Edwin Aldrin"
-        ]
-    },
-    {
         "question": "What does ANI stand for?",
         "correct": "Artificial Narrow Intelligence",
         "wrong": ["Artificial Natural Intelligence","Artificial Neural Intelligence","Artificial Normal Intelligence","Artificial Near Intelligence","Artficial New Intelligence"]
