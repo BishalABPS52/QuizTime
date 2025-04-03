@@ -121,11 +121,6 @@ easy_questions = [
         "wrong": ["Red Blue Yellow", "Red Yellow Green", "Red Black White", "Red Blue White"]
     },
     {
-        "question": "What is the capital of Samoa?",
-        "correct": "Apia",
-        "wrong": ["Salelologa","Faleolo","Mulifanua","Savaii"]
-    },
-    {
         "question": "What is the capital of Palau?",
         "correct": "Ngerulmud",
         "wrong": ["Koror","Melekeok","Airai","Ngaraard"]
