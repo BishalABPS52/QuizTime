@@ -62,7 +62,6 @@ def main():
                     sys.exit()
                 elif buttons[2].is_clicked((mx, my)):
                     # Implement bonus round functionality here
-                    #incomplete
                     pass
 
         for button in buttons:
