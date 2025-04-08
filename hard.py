@@ -42,12 +42,7 @@ hard_questions = [
     {
         "question": "Which country hosted the 2008 Summer Olympics?",
         "correct": "China",
-        "wrong": [
-            "Greece",
-            "Australia",
-            "United Kingdom",
-            "Brazil"
-        ]
+        "wrong": ["Greece","Australia","United Kingdom","Brazil"]
     },
     {
         "question": "Who won the Academy Award for Best Director in 2019?",
