@@ -32,12 +32,7 @@ hard_questions = [
     {
         "question": "Who is credited with the discovery of penicillin?",
         "correct": "Alexander Fleming",
-        "wrong": [
-            "Marie Curie",
-            "Louis Pasteur",
-            "Joseph Lister",
-            "Edward Jenner"
-        ]
+        "wrong": ["Marie Curie","Louis Pasteur","Joseph Lister","Edward Jenner"]
     },
     {
         "question": "Which country hosted the 2008 Summer Olympics?",
