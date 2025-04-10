@@ -128,11 +128,6 @@ easy_questions = [
     {
         "question": "Cristiano Ronaldo is associated with which sport?",
         "correct": "Football",
-        "wrong": [
-            "Tennis",
-            "Basketball",
-            "Golf",
-            "Cricket"
-        ]
+        "wrong": ["Tennis","Basketball","Golf","Cricket"]
     }
 ]
