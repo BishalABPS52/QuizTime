@@ -62,12 +62,7 @@ hard_questions = [
     {
         "question": "In which year did the Titanic sink?",
         "correct": "1912",
-        "wrong": [
-            "1905",
-            "1920",
-            "1898",
-            "1915"
-        ]
+        "wrong": ["1905","1920","1898","1915"]
     },
     {
         "question": "Who was the first emperor of China?",
