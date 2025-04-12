@@ -77,12 +77,7 @@ hard_questions = [
     {
         "question": "Which planet is known as the 'Morning Star'?",
         "correct": "Venus",
-        "wrong": [
-            "Mars",
-            "Mercury",
-            "Jupiter",
-            "Saturn"
-        ]
+        "wrong": ["Mars","Mercury","Jupiter","Saturn"]
     },
     {
         "question": "Who wrote the novel '1984'?",
