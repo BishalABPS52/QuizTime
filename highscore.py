@@ -19,7 +19,9 @@ GREEN = (0, 255, 0)
 
 # Load high scores from file
 def load_high_scores():
-   
+    try:
+        with open("/home/bishal-shrestha/MyProjects/UbuntuPythonFiles/Files/high_scores.json", "r") as file:
+            return json.load(file)
     except FileNotFoundError:
         return []
 
