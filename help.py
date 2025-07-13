@@ -40,7 +40,7 @@ def show_help():
     rules = [
         "1. Answer the questions within the time limit.",
         "2. Use lifelines wisely to help you answer difficult questions.",
-        "3. You can use each lifeline only once per game.",
+        "3. You can use each lifeline only once per game. ",
         "4. The game ends if you answer a question incorrectly or run out of time.",
         "5. Try to reach the highest prize level by answering all questions correctly."
     ]
