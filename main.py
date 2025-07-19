@@ -34,9 +34,7 @@ winner_font = pygame.font.Font("/home/bishal-shrestha/MyProjects/UbuntuPythonFil
 # Pygame Setup and Constants
 # ----------------------------
 #game window
-screen_width = 1200
-screen_height = 800
-screen = pygame.display.set_mode((screen_width, screen_height), pygame.RESIZABLE)
+
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
