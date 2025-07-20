@@ -4,11 +4,7 @@ hard_questions = [
         "correct": "1945",
         "wrong": ["1939","1942","1950","1947","1955"]
     },
-    {
-        "question": "What does ANI stand for?",
-        "correct": "Artificial Narrow Intelligence",
-        "wrong": ["Artificial Natural Intelligence","Artificial Neural Intelligence","Artificial Normal Intelligence","Artificial Near Intelligence","Artficial New Intelligence"]
-    },
+   
     {
         "question": "In which year was the US Declaration of Independence signed?",
         "correct": "1776",
