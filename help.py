@@ -32,11 +32,7 @@ class Button:
         return self.rect.collidepoint(pos)
 
 def show_help():
-    from gamemanager import main_menu  
-
-    screen = pygame.display.set_mode((1200, 800), pygame.RESIZABLE)
-    pygame.display.set_caption("Help")
-
+   
     rules = [
         "1. Answer the questions within the time limit.",
         "2. Use lifelines wisely to help you answer difficult questions.",
