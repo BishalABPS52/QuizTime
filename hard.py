@@ -50,16 +50,6 @@ hard_questions = [
         ]
     },
     {
-        "question": "Which artist painted the 'Mona Lisa'?",
-        "correct": "Leonardo da Vinci",
-        "wrong": [
-            "Vincent van Gogh",
-            "Pablo Picasso",
-            "Claude Monet",
-            "Rembrandt"
-        ]
-    },
-    {
         "question": "In which year did the Titanic sink?",
         "correct": "1912",
         "wrong": ["1905","1920","1898","1915"]
