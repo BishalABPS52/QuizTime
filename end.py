@@ -4,9 +4,7 @@ import sys
 # Initialize Pygame
 pygame.init()
 
-# Load assets
-background_image = pygame.image.load("/home/bishal-shrestha/MyProjects/UbuntuPythonFiles/Files/assets/end.jpg")
-golden_font = pygame.font.Font("/home/bishal-shrestha/MyProjects/UbuntuPythonFiles/Files/assets/CaviarDreams_Bold.ttf", 28)
+
 
 # Colors
 WHITE = (255, 255, 255)
